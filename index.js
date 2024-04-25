@@ -1,3 +1,4 @@
+//backend CRUD API script in nodejs using express
 const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
